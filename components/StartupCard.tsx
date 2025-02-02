@@ -20,6 +20,7 @@ const StartupCard = ({ post }: { post: StartupTypeCard }) => {
     image,
     description,
   } = post;
+
   return (
     <div>
       <li className="startup-card group">
