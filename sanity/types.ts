@@ -131,7 +131,7 @@ export type Startup = {
   _createdAt: string;
   _updatedAt: string;
   _rev: string;
-  title?: string;
+  id?: number;
   slug?: Slug;
   author?: {
     _ref: string;

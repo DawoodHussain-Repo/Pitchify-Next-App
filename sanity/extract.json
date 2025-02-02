@@ -697,10 +697,10 @@
           "type": "string"
         }
       },
-      "title": {
+      "id": {
         "type": "objectAttribute",
         "value": {
-          "type": "string"
+          "type": "number"
         },
         "optional": true
       },
